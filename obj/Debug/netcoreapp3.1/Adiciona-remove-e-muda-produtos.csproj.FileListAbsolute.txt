@@ -1,0 +1,13 @@
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Adiciona-remove-e-muda-produtos\bin\Debug\netcoreapp3.1\Adiciona-remove-e-muda-produtos.exe
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Adiciona-remove-e-muda-produtos\bin\Debug\netcoreapp3.1\Adiciona-remove-e-muda-produtos.deps.json
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Adiciona-remove-e-muda-produtos\bin\Debug\netcoreapp3.1\Adiciona-remove-e-muda-produtos.runtimeconfig.json
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Adiciona-remove-e-muda-produtos\bin\Debug\netcoreapp3.1\Adiciona-remove-e-muda-produtos.runtimeconfig.dev.json
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Adiciona-remove-e-muda-produtos\bin\Debug\netcoreapp3.1\Adiciona-remove-e-muda-produtos.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Adiciona-remove-e-muda-produtos\bin\Debug\netcoreapp3.1\Adiciona-remove-e-muda-produtos.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Adiciona-remove-e-muda-produtos\obj\Debug\netcoreapp3.1\Adiciona-remove-e-muda-produtos.csprojAssemblyReference.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Adiciona-remove-e-muda-produtos\obj\Debug\netcoreapp3.1\Adiciona-remove-e-muda-produtos.AssemblyInfoInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Adiciona-remove-e-muda-produtos\obj\Debug\netcoreapp3.1\Adiciona-remove-e-muda-produtos.AssemblyInfo.cs
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Adiciona-remove-e-muda-produtos\obj\Debug\netcoreapp3.1\Adiciona-remove-e-muda-produtos.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Adiciona-remove-e-muda-produtos\obj\Debug\netcoreapp3.1\Adiciona-remove-e-muda-produtos.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Adiciona-remove-e-muda-produtos\obj\Debug\netcoreapp3.1\Adiciona-remove-e-muda-produtos.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Adiciona-remove-e-muda-produtos\obj\Debug\netcoreapp3.1\Adiciona-remove-e-muda-produtos.genruntimeconfig.cache
